@@ -1,3 +1,6 @@
+# FORKED AND FIxED THE ERROR BY DELETING IT
+# Make sure to read below
+
 # Discord-Rainbow-Role
 Getting a Rainbow Role with a Discord Bot **using Discord.JS**
 
